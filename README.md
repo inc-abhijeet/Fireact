@@ -13,4 +13,8 @@ Firebase and React
 
 
 #member 2 change
-#02-connect-firebase-admin
+#02-connect-firebase-admin Firebase and React
+
+member 3 changes 
+
+#03-send-notification
